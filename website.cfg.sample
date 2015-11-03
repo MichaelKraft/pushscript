@@ -1,0 +1,8 @@
+# Local directory containing website files to push
+DEVDIR=''
+# Temp Directory for minifying scripts
+TEMPDIR=''
+# Remote SSH directory for rsync
+PUBDIR=''
+# Define whether to compress files or not
+COMPRESSION=true
